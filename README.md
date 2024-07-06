@@ -4,7 +4,7 @@
 Cada tema ha sido modificado según mis gustos e inspirado en las paletas de colores Catppuccin y Tokyonight.
 
 ### Brave
-![Brave](ThemeStash-img/brave_theme.png)
+![Brave](ThemeStash-img/brave-theme.png)
 
 ### Windows terminal
 ![windowsTerminal](ThemeStash-img/windows_terminal_theme.png)
